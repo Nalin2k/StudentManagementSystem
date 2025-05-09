@@ -20,4 +20,19 @@ public class ServiceImpl implements StudentService {
 		return list;
 	}
 
+	@Override
+	public Student saveStudent(Student student) {
+		return StudentRepository.save(student);
+	}
+
+	@Override
+	public Student getById(int id) {
+		return StudentRepository.findById(id).get();
+	}
+
+	@Override
+	public void deleteById(int id) {
+		 StudentRepository.deleteById(id);
+	}
+	
 }
