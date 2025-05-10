@@ -12,6 +12,6 @@ Student Management System is a spring boot application with MySQL 8.0 which incl
 
 **Template:**  Thymeleaf
 
-**Java Library Tool:**  Lombook
+**Java Library Tool:**  Lombok
 
 **Database:** MySQL 8.0
