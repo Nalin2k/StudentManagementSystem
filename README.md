@@ -8,8 +8,10 @@ Student Management System is a spring boot application with MySQL 8.0 which incl
 
 **Languages:** Java, SQL
 
-**Framework** Spring Boot, Web and Data JPA 
+**Framework** Spring Boot, Spring Web and Data JPA 
 
 **Template**  Thymeleaf
+
+**Java Library Tool**  Lombook
 
 **Database** MySQL 8.0
